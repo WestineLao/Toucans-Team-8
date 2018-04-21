@@ -13,4 +13,7 @@ Batch: Voyage-4
 * Add links to the project site and their github
 
 ## Site Link
-* https://chingu-projects.herokuapp.com/
+* https://voyage-chingu.herokuapp.com
+
+## About
+Voyage is a chingu collaboration project where all past voyage projects are compiled and presented to the people around the world.
